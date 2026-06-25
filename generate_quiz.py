@@ -159,6 +159,7 @@ def generate_html(csv_path, q_to_b64, output_path):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Driving Rules & Signs Quiz Directory</title>
+    <link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🚗&lt;/text&gt;&lt;/svg&gt;">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }}
